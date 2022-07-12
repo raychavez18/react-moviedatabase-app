@@ -1,4 +1,4 @@
-# React Fetching and Displayig Movie Database API Data
+# React Fetching and Displaying Movie Database API Data
 This is a demo showcasing latest React techniques to fetch and display top rated movies from a movie database API.
 
 Built with:<br/>
