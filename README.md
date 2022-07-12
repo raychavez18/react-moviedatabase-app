@@ -1,3 +1,14 @@
+# React Fetching and Displayig Movie Database API Data
+This is a demo showcasing latest React techniques to fetch and display top rated movies from a movie database API.
+
+Built with:<br/>
+React 18.2.0<br/>
+Node: 18.5.0<br/>
+Package Manager: npm 8.12.1
+
+To view live demo: http://www.raychavezweb.com/react-moviedatabase-demo/index.html
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
